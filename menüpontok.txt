@@ -1,0 +1,16 @@
+menük tartalmát a content (kék) dobozba include-oljuk (php)
+menük tartalmát php dokumentumban tároljuk
+keresõsávocskának doboz a content-be vhova
+
+admin:
+	könyvek
+	felhasználók --> új tag felvétele menü
+	mozgás
+	
+
+felhaszn. felület:
+	könyvek
+	könyvtárjegyem
+	súgó
+	belépés azonosítóval (amit a könyvtárkezelõ vesz fel) --> ennek hatására megkaphatók a személyes adatok 
+		--> ez a menü lehetne a könyvtárjegyem menü alatt

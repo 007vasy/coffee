@@ -1,0 +1,12 @@
+- lista abc szerint
+- keresés, szûkített keresés (pl.: szerzõ v. cím. v. kezdõbetû v. kategória szerint, stb.)
+	- találatok számának kiírása
+	- találat esetén, megadni, hogy hány db könyv van még a könyvtárban az adott könyvbõl
+- könyv hozzáadása
+- könyv törlése
+- könyv módosítása (szerzõ, ISBN, cím, rövid leírás a könyvrõl, stb...)
+- rendszer email küldés - elmaradás esetén pl.
+- súgó : leírás - hogy lehet hatékonyan használni az elektronikus könyvtár funkcióit
+- kapcsolat menüpont arra az esetre pl., ha valamelyik felhasználó hibát észlelne --> így tudná jelezni a hibát
+- könyv kikölcsönzési határidejének hosszabbítása
+- büntetés funkció késés esetén
